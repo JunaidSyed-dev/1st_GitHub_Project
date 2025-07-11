@@ -192,6 +192,3 @@ obj1.menu_flow()
 
 
 
-# hello world
-
-print("hello world")
