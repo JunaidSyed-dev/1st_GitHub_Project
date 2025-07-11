@@ -189,6 +189,3 @@ print(f"\n===== 👋 Hello , {name.title()} ! ====")
 
 obj1 = Users(name)
 obj1.menu_flow()
-
-
-
